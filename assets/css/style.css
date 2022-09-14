@@ -1,0 +1,14 @@
+.custom-btn {
+    width: 100%;
+}
+
+.custom-banner {
+    text-align: center;
+    background-color: navy;
+    color: white;
+}
+
+.current-weather {
+    border: 1px solid #777;
+    padding: 4px;
+}
